@@ -1,0 +1,8 @@
+C:\Users\Tipplin\src\development\Visual.Resource.Library\bin\Debug\Visual.Resource.Library.dll
+C:\Users\Tipplin\src\development\Visual.Resource.Library\bin\Debug\Visual.Resource.Library.pdb
+C:\Users\Tipplin\src\development\Visual.Resource.Library\obj\Debug\Visual.Resource.Library.csprojAssemblyReference.cache
+C:\Users\Tipplin\src\development\Visual.Resource.Library\obj\Debug\Visual.Resource.Library.Properties.Resources.resources
+C:\Users\Tipplin\src\development\Visual.Resource.Library\obj\Debug\Visual.Resource.Library.csproj.GenerateResource.cache
+C:\Users\Tipplin\src\development\Visual.Resource.Library\obj\Debug\Visual.Resource.Library.csproj.CoreCompileInputs.cache
+C:\Users\Tipplin\src\development\Visual.Resource.Library\obj\Debug\Visual.Resource.Library.dll
+C:\Users\Tipplin\src\development\Visual.Resource.Library\obj\Debug\Visual.Resource.Library.pdb
