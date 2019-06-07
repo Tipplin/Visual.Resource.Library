@@ -1,6 +1,6 @@
 # Visual.Resource.Library
 pure Resources for use in Projects.
-There is 1 Class but empty and Methods, Resources use with following,
+There is 1 Class but empty and no Methods, Resources use with following,
 using Visual.Resource.Library.Properties;
 sample: In an Form: BackgroundImage = <Resource>.BigBen;
 <Resource> lightgray come form Resource-Manager,
