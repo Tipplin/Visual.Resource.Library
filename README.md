@@ -16,5 +16,5 @@
 - use the Assembly:
 - using Visual.Resource.Library.Properties;
 - Form1:
-- property BackgroundImage = Resource.<Resourcename>;
+- property BackgroundImage = Resource.Resourcename;
 ----
