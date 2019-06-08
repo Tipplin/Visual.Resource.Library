@@ -9,3 +9,12 @@
 - In Progress:
 - Music, Sounds, Images, Photos, Text, Strings and more later.
 - Sounds can be played by Soundplayer in .NET Framework, but only - .wav - wave files.
+----
+- For show the First one, click on bin/debug,
+- click on Visual.Resource.Library.dll,
+- click on right side on Download Button, download in your dir,
+- use the Assembly:
+- using Visual.Resource.Library.Properties;
+- Form1:
+- property BackgroundImage = Resource.<Resourcename>;
+----
