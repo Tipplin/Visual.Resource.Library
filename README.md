@@ -1,5 +1,5 @@
 # Visual.Resource.Library
-pure Resources for use in Projects.
+# pure Resources for use in Projects.
 There is 1 Class but empty and no Methods, Resources use with following,
 using Visual.Resource.Library.Properties;
 sample: In an Form: BackgroundImage = Resource.BigBen;
