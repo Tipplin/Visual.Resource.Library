@@ -8,5 +8,6 @@ namespace Visual.Resource.Library
 {
     public class CResources
     {
+        // nothing, the Assembly is an pure Resource Assembly.
     }
 }
