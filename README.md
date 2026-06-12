@@ -4,7 +4,8 @@
 - using Visual.Resource.Library.Properties;
 - sample: In an Form: BackgroundImage = Resource.BigBen;
 - Resource lightgray come form Resource-Manager,
-- NOTE: Resource-Manager must be change Option Internal to public,
+- NOTE:
+- Visual Studio Resource-Manager must be change Option Internal to public,
 - you can use the Resources outside this Library.
 - In Progress:
 - Music, Sounds, Images, Photos, Text, Strings and more later.
